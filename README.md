@@ -1,6 +1,6 @@
 # Mini Guia de Estudos com NotebookLM – Engenharia de Dados
 
-Este projeto foi desenvolvido como parte de um desafio de aprendizado utilizando o NotebookLM.
+Este projeto foi desenvolvido como parte de um desafio de aprendizado na DIO utilizando o NotebookLM.
 
 O objetivo da atividade é explorar o uso de Inteligência Artificial como ferramenta de estudo, reunindo fontes abertas, organizando perguntas estratégicas e gerando resumos estruturados a partir do material analisado.
 
