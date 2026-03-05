@@ -1,0 +1,11 @@
+### Prompt 1
+Explique os principais conceitos de engenharia de dados com base nas fontes deste notebook.
+
+### Prompt 2
+Crie um roadmap de estudos para se tornar engenheiro de dados utilizando apenas as fontes disponíveis.
+
+### Prompt 3
+Gere um glossário com os principais termos de engenharia de dados explicados de forma simples.
+
+### Prompt 4
+Resuma os principais componentes de uma arquitetura moderna de dados.
