@@ -1,0 +1,25 @@
+Fundamentos
+Designing Data Intensive Applications
+Fundamentals of Data Engineering
+
+Processamento
+Spark
+Kafka
+
+Pipelines
+Airflow
+dbt
+
+Cloud
+AWS
+Azure
+Google Cloud
+
+Data Warehouse
+BigQuery
+Snowflake
+Redshift
+
+Data Lake
+S3
+Azure Data Lake
