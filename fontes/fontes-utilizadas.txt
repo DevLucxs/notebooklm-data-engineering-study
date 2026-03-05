@@ -1,0 +1,22 @@
+Livros
+
+**Fundamentals of Data Engineering — Joe Reis e Matt Housley
+Considerado um dos livros mais completos sobre engenharia de dados moderna.
+
+**Designing Data-Intensive Applications — Martin Kleppmann
+Explica arquiteturas de dados, sistemas distribuídos e pipelines.
+
+**Data Pipelines Pocket Reference — James Densmore
+Focado na construção de pipelines de dados.
+
+
+
+Documentações oficiais
+
+Databricks Documentation
+
+Microsoft Azure Data Engineering Docs
+
+Amazon Web Services Data Analytics Documentation
+
+Apache Software Foundation Docs (Spark, Airflow, Kafka)
