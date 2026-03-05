@@ -13,10 +13,10 @@ Focado na construção de pipelines de dados.
 
 Documentações oficiais
 
-Databricks Documentation
+**Databricks Documentation
 
-Microsoft Azure Data Engineering Docs
+**Microsoft Azure Data Engineering Docs
 
-Amazon Web Services Data Analytics Documentation
+**Amazon Web Services Data Analytics Documentation
 
-Apache Software Foundation Docs (Spark, Airflow, Kafka)
+**Apache Software Foundation Docs (Spark, Airflow, Kafka)
